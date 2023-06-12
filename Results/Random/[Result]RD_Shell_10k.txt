@@ -1,0 +1,25 @@
+Algorithm:shell_sort
+Date:4/11/2022
+Repetitions:10
+ListModel:Random
+ListSize:10001
+
+ExecTimes:
+
+[1]0.0813s
+[2]0.0813s
+[3]0.0797s
+[4]0.0867s
+[5]0.0786s
+[6]0.0835s
+[7]0.0799s
+[8]0.0816s
+[9]0.0787s
+[10]0.0821s
+
+Min:0.0786s
+Max:0.0867s
+
+Results_Average:0.0813
+
+SUCCESSFULLY EXECUTED

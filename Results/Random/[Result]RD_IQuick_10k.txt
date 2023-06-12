@@ -1,0 +1,25 @@
+Algorithm:iterative_quick_sort
+Date:3/11/2022
+Repetitions:10
+ListModel:Random
+ListSize:10001
+
+ExecTimes:
+
+[1]0.0904s
+[2]0.0896s
+[3]0.0912s
+[4]0.0911s
+[5]0.0907s
+[6]0.0919s
+[7]0.0915s
+[8]0.0908s
+[9]0.0896s
+[10]0.0922s
+
+Min:0.0896s
+Max:0.0922s
+
+Results_Average:0.0909
+
+SUCCESSFULLY EXECUTED

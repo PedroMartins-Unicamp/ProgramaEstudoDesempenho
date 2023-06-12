@@ -1,0 +1,16 @@
+ID:None
+
+Algorithm:bubble_sort
+Date:20/7/2022
+Repetitions:100
+ListModel:Random
+ListSize:8
+
+ExecTimes:
+
+INTERRUPTED EXECUTION
+
+Min:0
+Max:0
+
+Results_Average:0

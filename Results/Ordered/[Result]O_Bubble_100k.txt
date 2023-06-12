@@ -1,0 +1,25 @@
+Algorithm:bubble_sort
+Date:3/11/2022
+Repetitions:10
+ListModel:Ordered
+ListSize:100001
+
+ExecTimes:
+
+[1]0.0150s
+[2]0.0150s
+[3]0.0149s
+[4]0.0149s
+[5]0.0149s
+[6]0.0149s
+[7]0.0149s
+[8]0.0149s
+[9]0.0149s
+[10]0.0149s
+
+Min:0.0149s
+Max:0.0150s
+
+Results_Average:0.0149
+
+SUCCESSFULLY EXECUTED

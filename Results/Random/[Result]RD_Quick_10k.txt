@@ -1,0 +1,25 @@
+Algorithm:quick_sort
+Date:4/11/2022
+Repetitions:10
+ListModel:Random
+ListSize:10001
+
+ExecTimes:
+
+[1]0.0463s
+[2]0.0508s
+[3]0.0458s
+[4]0.0500s
+[5]0.0471s
+[6]0.0443s
+[7]0.0439s
+[8]0.0447s
+[9]0.0472s
+[10]0.0445s
+
+Min:0.0439s
+Max:0.0508s
+
+Results_Average:0.0465
+
+SUCCESSFULLY EXECUTED

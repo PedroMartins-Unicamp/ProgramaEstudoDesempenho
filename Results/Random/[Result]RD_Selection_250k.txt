@@ -1,0 +1,22 @@
+Algorithm:selection_sort
+Date:8/11/2022
+Repetitions:10
+ListModel:Random
+ListSize:250001
+
+ExecTimes:
+
+[1]7814.8103s
+[2]7799.2469s
+[3]7808.0418s
+[4]7829.7339s
+[5]7799.0101s
+[6]7815.4221s
+[7]7812.4346s
+INTERRUPTED EXECUTION
+
+Min:7799.0101s
+Max:7829.7339s
+
+Results_Average:7811.2428
+

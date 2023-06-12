@@ -1,0 +1,25 @@
+Algorithm:insertion_sort
+Date:2/11/2022
+Repetitions:10
+ListModel:Ordered
+ListSize:10001
+
+ExecTimes:
+
+[1]0.0031s
+[2]0.0031s
+[3]0.0031s
+[4]0.0031s
+[5]0.0031s
+[6]0.0031s
+[7]0.0031s
+[8]0.0031s
+[9]0.0031s
+[10]0.0031s
+
+Min:0.0031s
+Max:0.0031s
+
+Results_Average:0.0031
+
+SUCCESSFULLY EXECUTED

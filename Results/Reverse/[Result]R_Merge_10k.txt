@@ -1,0 +1,25 @@
+Algorithm:merge_sort
+Date:9/11/2022
+Repetitions:10
+ListModel:Reverse
+ListSize:10001
+
+ExecTimes:
+
+[1]0.0748s
+[2]0.0690s
+[3]0.0690s
+[4]0.0688s
+[5]0.0687s
+[6]0.0689s
+[7]0.0689s
+[8]0.0690s
+[9]0.0687s
+[10]0.0686s
+
+Min:0.0686s
+Max:0.0748s
+
+Results_Average:0.0694
+
+SUCCESSFULLY EXECUTED
